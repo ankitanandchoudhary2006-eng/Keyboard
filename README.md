@@ -70,3 +70,15 @@ I made a custom 60% layout keyboard which has per swich diode for ghosting prote
 
 **Total Project Cost: $119.14 USD**
 
+## Schematics
+
+<img width="772" height="513" alt="Screenshot 2026-11-13 121449" src="https://github.com/user-attachments/assets/9c15ccac-b7c6-45c3-8365-d55485701650" />
+<img width="1003" height="512" alt="Screenshot 2026-11-17 002526" src="https://github.com/user-attachments/assets/3c2579e8-ad9c-4fda-b0e2-a8ef6af12179" />
+
+## PCB
+
+<img width="1046" height="372" alt="Screenshot 2026-11-17 001015" src="https://github.com/user-attachments/assets/fc62c576-1401-4f60-9790-c20e375c1988" />
+
+## CAD
+<img width="901" height="396" alt="Screenshot 2026-11-17 000537" src="https://github.com/user-attachments/assets/e3e25853-39b1-4ced-bff7-82a61b9a0c53" />
+<img width="727" height="593" alt="Screenshot 2026-11-17 000504" src="https://github.com/user-attachments/assets/f9bfbd34-ef2d-4d10-a480-1f7f7d60e7f0" />
