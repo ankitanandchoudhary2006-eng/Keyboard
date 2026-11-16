@@ -1,0 +1,44 @@
+{
+  "keyboard_name": "Custom STM32F072 Keyboard",
+  "manufacturer": "Custom",
+  "maintainer": "custom",
+  "bootloader": "stm32-dfu",
+  "processor": "STM32F072",
+  "usb": {
+    "vid": "0xFEED",
+    "pid": "0x6100",
+    "device_version": "1.0.0"
+  },
+  "diode_direction": "COL2ROW",
+  "matrix_pins": {
+    "rows": [
+      "B11",
+      "B10",
+      "B2",
+      "B1",
+      "B0"
+    ],
+    "cols": [
+      "B12",
+      "B13",
+      "A3",
+      "A4",
+      "B14",
+      "B15",
+      "A8",
+      "A5",
+      "A9",
+      "A10",
+      "A6",
+      "A7",
+      "A15",
+      "B3",
+      "B4"
+    ]
+  },
+  "features": {
+    "bootmagic": true,
+    "extrakey": true,
+    "mousekey": true
+  }
+}
