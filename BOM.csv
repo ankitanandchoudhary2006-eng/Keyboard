@@ -1,0 +1,31 @@
+Type,Comment,Description,Quantity,Total Price (USD),Link
+Component,4.7uF,10V 4.7uF X5R ±20% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,2,0.226,https://jlcpcb.com/partdetail/24469-CL05A475MP5NRNC/C23733
+Component,100nF,100nF 16V X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,4,0.0552,https://jlcpcb.com/partdetail/1877-CL05B104KO5NNNC/C1525
+Component,1uF,1uF 25V X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,4,0.11,https://jlcpcb.com/partdetail/53938-CL05A105KA5NQNC/C52923
+Component,10uF,10uF 6.3V X5R ±20% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,1,0.394,https://jlcpcb.com/partdetail/16204-CL05A106MQ5NUNC/C15525
+Component,PRTR5V0U2X,-55℃~+125℃ 0.3pF、0.8pF 100W 10V、15V 5V 6.5V 6A 80nA ESD IEC 61000-4-2、IEC 61000-4-5、IEC 61000-4-4 Three channels Unidirectional SOT-143 ESD and Surge Protection (TVS/ESD) ROHS,1,0.3762,https://jlcpcb.com/partdetail/TECHPUBLIC-PRTR5V0U2X/C2827688
+Component,1N4148W,150mA 1A 1V@50mA 1uA@75V 400mW 4ns 75V Independent SOD-123 Switching Diodes ROHS,60,1.6616,https://jlcpcb.com/partdetail/ST_Semtech-1N4148W/C81598
+Component,500mA,-40℃~+85℃ 100A 100ms 150mΩ 1A 500mA 600mW 6V 700mΩ 1206 Resettable Fuses ROHS,1,0.2538,https://jlcpcb.com/partdetail/TECHFUSE-nSMD050/C69688
+Component,2N7002,1 N-channel 115mA 2.5V 225mW 25pF 50pF 5pF 5Ω@10V 60V N-Channel ±20V SOT-23 MOSFETs ROHS,1,0.158,https://jlcpcb.com/partdetail/9040-2N7002/C8545
+Component,5k1,-55℃~+155℃ 5.1kΩ 50V 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS,2,0.028,https://jlcpcb.com/partdetail/26648-0402WGF5101TCE/C25905
+Component,33k,-55℃~+155℃ 33kΩ 50V 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS,1,0.038,https://jlcpcb.com/partdetail/26522-0402WGF3302TCE/C25779
+Component,10k,-55℃~+155℃ 10kΩ 50V 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS,1,0.03,https://jlcpcb.com/partdetail/26487-0402WGF1002TCE/C25744
+Component,100k,-55℃~+155℃ 100kΩ 50V 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS,1,0.018,https://jlcpcb.com/partdetail/26484-0402WGF1003TCE/C25741
+Component,TS-1187A-B-A-B,"-30℃~+85℃ 1.5mm 1.6N 100,000 cycles 12V 5.1mm 5.1mm 50mA Gold No Round Button SPST Surface Mount,Vertical Without Bracket SMD-4P,5.1x5.1mm Tactile Switches ROHS",1,0.215,https://jlcpcb.com/partdetail/XKBConnection-TS_1187A_B_AB/C318884
+Component,XC6206P332MR,"-40℃~+85℃@(Ta) 1 1uA 200mA 3.3V 6V Fixed Over Current Protection Positive SOT-23-3L Voltage Regulators - Linear, Low Drop Out (LDO) Regulators ROHS",1,0.69,https://jlcpcb.com/partdetail/TorexSemicon-XC6206P332MRG/C5446
+Component,STM32F072CBT6,-40℃~+85℃ 1.65V~3.6V 12bit 12bit 16KB 32 Bit 37 48MHz 64KB ARM Cortex-M0 Built-in FLASH LQFP-48(7x7) Microcontrollers (MCU/MPU/SOC) ROHS,1,5.518,https://jlcpcb.com/partdetail/STMicroelectronics-STM32F072C8T6/C80488
+Component,USB_C_Receptacle_USB2.0_16P,"-30℃~+80℃ 1 10,000 cycles 16P 20V 5A 7.35mm Female Surface Mount, Right Angle Type-C SMD USB Connectors ROHS",1,0.3738,https://jlcpcb.com/partdetail/Korean_HropartsElec-TYPE_C_31_M12/C165948
+PCB,Engineering fee,PCB engineering fee,1,4.0,
+PCB,Via Covering,Via covering,1,0.0,
+PCB,Board,PCB board fabrication,1,14.7,
+PCBA,Setup Fee,PCBA setup fee,1,25.75,
+PCBA,Stencil,Stencil,1,8.27,
+PCBA,Panel,Panel charge,1,0.0,
+PCBA,Large Size,Large-size surcharge,1,0.0,
+PCBA,Components (16 items),Component cost included in standard PCBA price,16,10.15,
+PCBA,Feeders Loading fee,Feeder loading fee,1,24.8,
+PCBA,SMT Assembly,SMT assembly,1,1.43,
+PCBA,Packaging fee,Packaging fee,1,0.51,
+Additional,3D Print,3D printing,1,11.29,
+Shipping,Shipping,Shipping charge,1,18.24,
+Grand Total,Total project cost,PCB $18.70 + Standard PCBA $70.91 + 3D Print $11.29 + Shipping $18.24. Component line items are already included in PCBA; not added again.,1,119.14,
