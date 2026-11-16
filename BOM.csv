@@ -27,6 +27,7 @@ PCBA,Feeders Loading fee,Feeder loading fee,1,24.8,
 PCBA,SMT Assembly,SMT assembly,1,1.43,
 PCBA,Packaging fee,Packaging fee,1,0.51,
 Additional,HOTSWAP,HOTSWAP,61, 0 Already HAVE,https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/kailh-hot-swap-socket/?attribute_pa_variations=white
+Additional,Stabalizer ,Stabalizer,1, 0 Already HAVE,https://meckeys.com/shop/accessories/keyboard-accessories/more/glorious-goat-stabilizers/
 Additional,3D Print,3D printing,1,11.29,
 Shipping,Shipping,Shipping charge,1,18.24,
 Grand Total,Total project cost,PCB $18.70 + Standard PCBA $70.91 + 3D Print $11.29 + Shipping $18.24. Component line items are already included in PCBA; not added again.,1,119.14,
