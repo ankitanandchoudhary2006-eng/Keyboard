@@ -33,6 +33,7 @@ I made a custom 60% layout keyboard which has per swich diode for ghosting prote
 | STM32F072CBT6 | 1 | $5.518 | [JLCPCB](https://jlcpcb.com/partdetail/STMicroelectronics-STM32F072C8T6/C80488) |
 | USB Type-C Connector | 1 | $0.3738 | [JLCPCB](https://jlcpcb.com/partdetail/Korean_HropartsElec-TYPE_C_31_M12/C165948) |
 | HOTSWAP Socket | 61 | $0.00 (Already Have) | [Meckeys](https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/kailh-hot-swap-socket/?attribute_pa_variations=white) |
+|Stabalizers |1|0|https://meckeys.com/shop/accessories/keyboard-accessories/more/glorious-goat-stabilizers/|
 
 ## Manufacturing Cost
 
